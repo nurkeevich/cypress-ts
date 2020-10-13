@@ -1,0 +1,7 @@
+# node related auto generated folders
+node_modules
+yarn-error.log
+
+# cypress local folders
+cypress/videos
+cypress/screenshot
