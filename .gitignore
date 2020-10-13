@@ -5,3 +5,6 @@ yarn-error.log
 # cypress local folders
 cypress/videos
 cypress/screenshot
+
+# vs code
+.vscode
